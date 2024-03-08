@@ -1,9 +1,10 @@
 # data-analysis-with-google-sheets
 <h3>
-  we have 2 different dataset and we have to find the insights from that datasets and the conditions are given us by the client.
+  We have 2 different dataset and we have to find the insights from that datasets and the conditions are given us by the client.
+  Datasets are also in the excel file.
 </h3>
 <h4>
-  The tasks given by the client are given below.
+  The tasks given by the client are given below:
 </h4>
 <h5>
   Task 1 : First Create a New Sub Sheet & Fetch all the Data from the Sheet called "Data Set" where Data from the PE Ratio is not Blank & PE Ratio < 100 using Query Function  and sort the data by Descending of Market Cap Amount.
