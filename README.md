@@ -1,8 +1,11 @@
 # data-analysis-with-google-sheets
-<h1>
+<h3>
   we have 2 different dataset and we have to find the insights from that datasets and the conditions are given us by the client.
-</h1>
-<h2>
+</h3>
+<h4>
+  The tasks given by the client are given below.
+</h4>
+<h5>
   Task 1 : First Create a New Sub Sheet & Fetch all the Data from the Sheet called "Data Set" where Data from the PE Ratio is not Blank & PE Ratio < 100 using Query Function  and sort the data by Descending of Market Cap Amount.
 
 Task 2 :  Now Create 2 Columns of Industry & NSE/BSE Code & Fetch Data from the Second Sheet with Vlookup, Make sure the Vlookup Formula is used with "ARRAYFORMULA" meaning formula will be written only once but will be applicable throughout the column,
@@ -16,4 +19,4 @@ Task 3 : Now Create 2 More Columns at the End with the Heading "Bear Mode 1" & "
 Task 4 : Now find out the Highest value of the Market Cap & then categorize 60% and Above of the Highest Value as Large Cap Stocks, 40-60% as Medium Cap Stocks & 0-40% as Low Cap Stocks in a new Column at last naming it as Cap Size.
 
 Task 5 : Now create a new sheet & fetch all Data where Stock Status = 'Good Stock' which will be your Final Organized Data Source so Create Proper Formatting to this Sheet like the Data Source Sheet & also add Appropriate Conditional Formatting Colour Scales.
-</h2>
+</h5>
