@@ -1,4 +1,4 @@
-# data-analysis-with-google-sheets
+# Data-Analysis-with-Google-Sheets
 <h3>
   We have 2 different dataset and we have to find the insights from that datasets and the conditions are given us by the client.
   Datasets are also in the excel file.
